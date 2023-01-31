@@ -1,0 +1,26 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,469.0,469.0,98%,3e-159,53.33%,456,MBO4673554.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,437.0,437.0,98%,9.000000000000001e-147,50.00%,462,MBO7580326.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,374.0,374.0,96%,2e-121,47.36%,490,MBR3080124.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,351.0,351.0,75%,3e-113,53.35%,442,MBR3656747.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,352.0,352.0,75%,3e-113,53.35%,450,MBR6828285.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,255.0,255.0,81%,5.999999999999999e-76,41.54%,445,MBR0202276.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,255.0,255.0,77%,2.0000000000000002e-75,42.66%,488,MBR0527318.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,202.0,202.0,73%,1e-55,34.19%,438,MBQ6768350.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,172.0,172.0,70%,4e-44,30.79%,454,MBP3248569.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,121.0,121.0,28%,9.999999999999999e-27,51.43%,330,MBR0046529.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,86.3,86.3,26%,2e-14,37.80%,280,MBR4243682.1
+hypothetical protein [Aeriscardovia sp.],Aeriscardovia sp.,,1872397,78.2,78.2,38%,2e-11,31.41%,375,MBO5627922.1
+hypothetical protein [Prevotella sp. tc2-28],Prevotella sp. tc2-28,,1761888,64.7,64.7,29%,3e-07,34.90%,295,WP_091960776.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,60.5,60.5,17%,8e-06,37.35%,299,MCR4914387.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,59.7,59.7,23%,1e-05,35.71%,280,MBP3850312.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,53.9,53.9,17%,0.001,39.02%,377,MBR6894149.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,53.9,53.9,34%,0.002,29.27%,398,MCR5818815.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,52.0,52.0,29%,0.004,28.83%,282,MBR4573019.1
+hypothetical protein [Prevotella ruminicola],Prevotella ruminicola,,839,50.4,50.4,26%,0.01,25.38%,230,WP_074761731.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,50.8,50.8,24%,0.012,32.23%,321,MBQ9171255.1
+methyltransferase domain-containing protein [Euryarchaeota archaeon],Euryarchaeota archaeon,,2026739,49.7,49.7,25%,0.031,25.58%,397,MBU4535833.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,48.1,48.1,27%,0.037,26.32%,213,MBR3110573.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,47.4,47.4,56%,0.18,24.07%,437,MBQ7741584.1
+chromosome segregation protein SMC [Oscillospiraceae bacterium],Oscillospiraceae bacterium,,2485925,44.7,44.7,41%,2.0,26.53%,1185,MBR5558733.1
+TPA: DUF460 domain-containing protein [Archaeoglobus profundus],Archaeoglobus profundus,,84156,43.5,43.5,14%,3.7,36.76%,621,HIP57782.1

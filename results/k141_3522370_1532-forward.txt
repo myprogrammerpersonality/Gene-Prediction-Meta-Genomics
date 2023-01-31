@@ -1,0 +1,2 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+hypothetical protein F53441_8045 [Fusarium austroafricanum],Fusarium austroafricanum,,2364996,38.5,38.5,54%,8.7,28.92%,742,KAF4448568.1

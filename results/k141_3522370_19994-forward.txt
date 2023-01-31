@@ -1,0 +1,51 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1129,1129,100%,0.0,89.43%,596,MBR0047369.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,847,847,95%,0.0,69.15%,599,MBR2243877.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,847,847,95%,0.0,69.15%,599,MBR2150971.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,834,834,96%,0.0,67.59%,599,MBO4673776.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,831,831,100%,0.0,66.67%,601,MBO4451022.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,813,813,96%,0.0,65.46%,593,MBQ3926335.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,800,800,100%,0.0,64.15%,589,MBO6030146.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,800,800,100%,0.0,63.48%,587,MBR2192068.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,799,799,100%,0.0,63.48%,587,MBR3530072.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,798,798,100%,0.0,63.99%,589,MBO7538783.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,788,788,97%,0.0,63.48%,588,MBR4218165.1
+Ig-like domain-containing protein [Prevotella sp. E15-22],Prevotella sp. E15-22,,2937774,786,786,97%,0.0,63.48%,588,WP_248505556.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,784,784,95%,0.0,64.42%,603,MBE6254665.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,784,784,96%,0.0,63.14%,598,MBR2114984.1
+Ig-like domain-containing protein [Prevotella sp. E2-28],Prevotella sp. E2-28,,2913620,776,776,96%,0.0,63.39%,590,WP_237826279.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,776,776,96%,0.0,63.15%,589,MBO4613040.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,768,768,99%,0.0,62.19%,597,MBO4822609.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,768,768,100%,0.0,62.27%,591,MBR0049982.1
+Ig-like domain-containing protein [unclassified Prevotella],unclassified Prevotella,,2638335,768,768,100%,0.0,60.90%,591,WP_237793271.1
+Ig-like domain-containing protein [Prevotella sp. E13-3],Prevotella sp. E13-3,,2913617,766,766,100%,0.0,60.73%,591,WP_237834364.1
+Ig-like domain-containing protein [unclassified Prevotella],unclassified Prevotella,,2638335,763,763,100%,0.0,60.73%,591,WP_091817081.1
+Ig-like domain-containing protein [Prevotella sp. E2-25],Prevotella sp. E2-25,,2913619,763,763,96%,0.0,62.41%,591,WP_237850629.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,763,763,100%,0.0,60.93%,591,MBQ4449208.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,761,761,100%,0.0,61.10%,591,MBQ5509937.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,761,761,100%,0.0,60.56%,596,MBO4450862.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,760,760,98%,0.0,61.76%,588,MBO6012273.1
+Ig-like domain-containing protein [unclassified Prevotella],unclassified Prevotella,,2638335,759,759,96%,0.0,62.07%,591,WP_237802015.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,756,756,98%,0.0,61.42%,588,MBP5764948.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,746,746,96%,0.0,61.90%,591,MBR6867789.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,744,744,100%,0.0,60.40%,586,MBO7593292.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,737,737,98%,0.0,58.92%,589,MBR6191157.1
+dienelactone hydrolase family protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,734,734,100%,0.0,58.53%,585,MBQ6749744.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,733,733,98%,0.0,59.42%,588,MCR5644530.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,731,731,100%,0.0,60.10%,584,MBO7580653.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,724,724,100%,0.0,58.47%,594,MBR4522468.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,723,723,100%,0.0,58.93%,584,MBR1491907.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,722,722,100%,0.0,58.14%,594,MBR2184227.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,720,720,91%,0.0,62.66%,542,MBO7379772.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,719,719,98%,0.0,57.43%,584,MCR5044266.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,718,718,95%,0.0,60.38%,585,MBR7029760.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,716,716,100%,0.0,58.67%,587,MBR6827641.1
+Ig-like domain-containing protein [Prevotellaceae bacterium],Prevotellaceae bacterium,,2049047,716,716,100%,0.0,58.93%,584,MCI6803121.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,715,715,97%,0.0,59.93%,586,MBR6035987.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,715,715,100%,0.0,58.71%,584,MBS7322466.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,713,713,100%,0.0,58.76%,584,MBQ8710179.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,713,713,100%,0.0,58.76%,584,MBQ7143345.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,711,711,98%,0.0,56.93%,589,MBR6975210.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,709,709,96%,0.0,60.34%,590,MBP5507431.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,706,706,95%,0.0,59.83%,590,MCR4769920.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,706,706,98%,0.0,59.22%,586,MBR6194097.1

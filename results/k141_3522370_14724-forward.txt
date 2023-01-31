@@ -1,0 +1,51 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1353,1353,99%,0.0,70.27%,904,MBO4801300.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1351,1351,97%,0.0,72.20%,911,MBQ7495071.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1336,1336,97%,0.0,71.15%,898,MBR3092813.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,879,959,57%,0.0,89.11%,510,MBR0047367.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,779,779,51%,0.0,78.35%,491,MBO4464846.1
+glycoside hydrolase family 43 protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,777,777,53%,0.0,77.55%,509,MCR5779486.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,771,771,50%,0.0,77.29%,509,MBO7137491.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,770,770,50%,0.0,77.51%,501,MBO7108491.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,769,769,50%,0.0,78.98%,502,MBO4719370.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,767,767,51%,0.0,76.71%,504,MBR2236861.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,767,767,48%,0.0,80.00%,488,MBR4897189.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,765,765,50%,0.0,78.32%,503,MBO4673781.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,764,764,50%,0.0,78.10%,504,MBQ3925922.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,764,764,51%,0.0,76.50%,504,MBR6188814.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,763,763,50%,0.0,79.11%,511,MBR0244208.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,763,763,50%,0.0,79.11%,511,MBQ8937324.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,763,763,51%,0.0,77.34%,501,MBR6194098.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,763,763,50%,0.0,79.11%,511,MBR1787856.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,762,762,50%,0.0,79.11%,511,MBR1666466.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,762,762,50%,0.0,79.11%,511,MBP3823720.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,761,761,50%,0.0,77.07%,515,MBR6140344.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,761,761,50%,0.0,77.65%,504,MBR3619652.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,759,759,48%,0.0,78.77%,1272,MBR3455317.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,758,758,48%,0.0,79.59%,481,MBR6276023.1
+glycoside hydrolase family 43 protein [Prevotella sp.],Prevotella sp.,,59823,757,757,51%,0.0,75.85%,512,MCR4958350.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,756,756,48%,0.0,80.23%,502,MBP5514055.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,755,755,49%,0.0,77.61%,500,MBQ6189053.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,738,738,49%,0.0,77.53%,517,MBR5654630.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,738,738,48%,0.0,78.82%,506,MBO4612006.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,737,737,49%,0.0,77.53%,517,MBR4388962.1
+glycoside hydrolase family 43 protein [Prevotella sp.],Prevotella sp.,,59823,737,737,50%,0.0,74.83%,503,MCR5472870.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,737,737,50%,0.0,74.35%,507,MBR4367534.1
+glycoside hydrolase family 43 protein [Prevotella sp. BP1-148],Prevotella sp. BP1-148,,645274,736,736,50%,0.0,74.83%,502,WP_255399824.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,735,735,50%,0.0,74.13%,507,MBR3455439.1
+glycoside hydrolase family 43 protein [unclassified Prevotella],unclassified Prevotella,,2638335,735,735,50%,0.0,74.61%,502,WP_237793276.1
+glycoside hydrolase family 43 protein [Prevotella sp. BP1-145],Prevotella sp. BP1-145,,645273,735,735,50%,0.0,74.83%,502,WP_255380683.1
+glycoside hydrolase family 43 protein [Prevotella sp. E13-3],Prevotella sp. E13-3,,2913617,733,733,50%,0.0,74.39%,502,WP_237834373.1
+glycoside hydrolase family 43 protein [unclassified Prevotella],unclassified Prevotella,,2638335,731,731,50%,0.0,74.17%,502,WP_237802020.1
+glycoside hydrolase family 43 protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,730,730,57%,0.0,67.31%,507,MCR4836364.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,727,727,49%,0.0,74.83%,508,MBR5729321.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,726,726,50%,0.0,73.63%,499,MBP1531534.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,726,726,57%,0.0,67.37%,506,MBR6892777.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,726,726,57%,0.0,67.37%,506,MBQ7685787.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,725,725,50%,0.0,74.34%,517,MBO4564552.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,724,724,50%,0.0,73.09%,524,MCR5241847.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,722,722,50%,0.0,74.83%,491,MBO4659527.1
+family 43 glycosylhydrolase [Prevotella sp.],Prevotella sp.,,59823,717,717,50%,0.0,72.49%,500,MBO4820269.1
+family 43 glycosylhydrolase [Prevotella sp. E2-28],Prevotella sp. E2-28,,2913620,716,716,50%,0.0,74.29%,503,WP_237826272.1
+glycoside hydrolase family 43 protein [Prevotella sp. E15-22],Prevotella sp. E15-22,,2937774,716,716,51%,0.0,73.38%,497,WP_248505562.1
+family 43 glycosylhydrolase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,712,712,48%,0.0,73.85%,510,MBR3514014.1

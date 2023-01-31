@@ -1,0 +1,51 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1064,1064,99%,0.0,68.86%,714,MBO4801573.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,1058,1058,99%,0.0,68.54%,716,MBO5594780.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,1041,1041,99%,0.0,67.13%,714,MCR5159281.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,1038,1038,100%,0.0,67.27%,717,MBR3479013.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,1027,1027,99%,0.0,66.81%,716,MBQ6652735.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,1022,1022,99%,0.0,66.10%,714,MBO4893132.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,1008,1008,97%,0.0,66.57%,699,MBQ6652530.1
+hypothetical protein [Muribaculaceae bacterium],Muribaculaceae bacterium,,2498093,1003,1003,99%,0.0,64.84%,714,MBQ9576518.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,975,975,99%,0.0,64.94%,714,MBQ9191507.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,932,932,99%,0.0,59.97%,716,MBR1449339.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,597,597,60%,0.0,62.76%,464,MBO7052307.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,481,481,99%,9e-157,38.78%,725,MBR3512805.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,434,434,95%,1.9999999999999998e-138,35.54%,709,WP_270616592.1
+VapE family protein [Parabacteroides sp. Y3-G-102],Parabacteroides sp. Y3-G-102,,2949649,434,434,95%,1.9999999999999998e-138,35.54%,728,WP_250788214.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,433,433,95%,6e-138,35.54%,728,WP_270228672.1
+VapE family protein [Parabacteroides],Parabacteroides,,375288,433,433,95%,7e-138,35.54%,728,WP_156682378.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,433,433,95%,7e-138,35.67%,728,WP_057319647.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,433,433,95%,7.999999999999999e-138,35.67%,728,WP_146374796.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,432,432,95%,1e-137,35.54%,728,WP_195318959.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,429,429,95%,8e-137,35.54%,709,WP_173003742.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,429,429,95%,1e-136,35.54%,728,WP_129984500.1
+VapE family protein [Parabacteroides sp. AF19-14],Parabacteroides sp. AF19-14,,2293114,427,427,95%,1e-135,35.27%,728,WP_122380011.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,424,424,95%,1e-134,35.12%,728,WP_195205819.1
+VapE family protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,424,424,95%,2e-134,34.99%,728,WP_217772866.1
+PriCT-2 domain-containing protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,415,415,54%,1e-133,50.00%,534,MBQ2332114.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,403,403,79%,2.0000000000000002e-126,37.91%,715,MBQ0060338.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,391,391,53%,8.000000000000001e-126,47.19%,429,MBQ7570654.1
+TPA: hypothetical protein [Parabacteroides distasonis],Parabacteroides distasonis,,823,392,392,58%,2e-125,46.05%,470,HAL79903.1
+putative uncharacterized protein [Parabacteroides sp. CAG:2],Parabacteroides sp. CAG:2,,1262912,367,367,49%,3e-117,48.74%,361,CDB47246.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,370,370,96%,1e-113,33.51%,751,MCI6119193.1
+BT4734/BF3469 family protein [Bacteroides ndongoniae],Bacteroides ndongoniae,,1903262,366,366,100%,1.0000000000000001e-112,32.06%,692,WP_071150720.1
+hypothetical protein [Escherichia coli],Escherichia coli,,562,363,363,83%,2.0000000000000001e-112,34.54%,635,MSL92145.1
+virE domain-containing protein [Bacteroides sp. CAG:633],Bacteroides sp. CAG:633,,1262744,365,365,100%,3e-112,31.92%,689,CDB10281.1
+hypothetical protein [Bacteroides sp.],Bacteroides sp.,,29523,365,365,98%,7.000000000000001e-112,32.63%,709,MBQ8501347.1
+VapE family protein [Prevotella sp. P2-180],Prevotella sp. P2-180,,2024224,366,366,96%,7.000000000000001e-112,33.06%,745,WP_094383633.1
+virulence protein E [Bacteroidales bacterium SW292],Bacteroidales bacterium SW292,,2510305,363,363,100%,1e-111,32.83%,703,MBW9204016.1
+virulence protein E [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,362,362,99%,3e-111,34.58%,686,MBQ4524493.1
+BT4734/BF3469 family protein [Mediterranea sp. An20],Mediterranea sp. An20,,1965586,362,362,99%,7e-111,32.68%,703,WP_087339140.1
+virulence protein E [Bacteroidales bacterium SW292],Bacteroidales bacterium SW292,,2510305,360,360,99%,6e-110,31.44%,715,MBW9204066.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,360,360,95%,9e-110,32.65%,745,MCI7089014.1
+virulence-associated E family protein [Paludibacteraceae bacterium],Paludibacteraceae bacterium,,2748031,350,350,54%,9e-110,44.03%,427,MCQ2313351.1
+hypothetical protein [Paludibacteraceae bacterium],Paludibacteraceae bacterium,,2748031,346,346,53%,2e-108,43.51%,418,MBQ9426881.1
+DUF3874 domain-containing protein [Bacteroides sp.],Bacteroides sp.,,29523,353,353,99%,1e-107,31.11%,709,MBQ7349570.1
+VapE family protein [Caecibacteroides pullorum],Caecibacteroides pullorum,,2725562,351,351,100%,9e-107,30.64%,694,WP_204972307.1
+VapE family protein [Bacteroides togonis],Bacteroides togonis,,1917883,351,351,100%,1e-106,30.64%,694,WP_075316692.1
+BT4734/BF3469 family protein [Bacteroides uniformis],Bacteroides uniformis,,820,350,350,97%,2e-106,31.47%,698,WP_258985164.1
+hypothetical protein BHV83_16245 [Parabacteroides sp. merdae-related_45_40],Parabacteroides sp. merdae-related_45_40,,1897013,350,350,100%,2.9999999999999997e-106,30.32%,712,OKZ30036.1
+VapE family protein [Parabacteroides merdae],Parabacteroides merdae,,46503,350,350,100%,2.9999999999999997e-106,30.32%,712,WP_122131931.1
+hypothetical protein [Paludibacteraceae bacterium],Paludibacteraceae bacterium,,2748031,340,340,53%,4e-106,43.63%,428,MBR5328197.1
+BT4734/BF3469 family protein [Mediterranea massiliensis],Mediterranea massiliensis,,1841865,349,349,98%,4e-106,31.76%,694,WP_072546140.1

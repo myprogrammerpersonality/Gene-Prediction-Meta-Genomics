@@ -1,0 +1,51 @@
+Description,Scientific Name,Common Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. Ident,Acc. Len,Accession
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,252,252,35%,1e-74,57.31%,273,MBQ4392092.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,263,263,40%,2e-74,59.65%,592,MBQ9640915.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,253,253,50%,2e-69,47.12%,737,MBR0049998.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,250,250,39%,6.999999999999999e-69,55.76%,710,MBQ9357860.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,248,248,54%,7e-68,44.36%,722,MBR6318871.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,227,227,36%,2e-64,55.13%,307,MBQ7509968.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,233,233,54%,2e-62,43.59%,730,MBR2153779.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,219,219,51%,1e-57,39.64%,691,MBQ9667712.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,198,198,51%,3.9999999999999996e-50,40.65%,695,MBR0050000.1
+hypothetical protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,196,196,55%,1.0000000000000001e-49,38.38%,689,MBR0036696.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,184,184,51%,5.0000000000000004e-45,35.47%,705,MBO5467827.1
+TPA: hypothetical protein [Candidatus Paraprevotella stercorigallinarum],Candidatus Paraprevotella stercorigallinarum,,2838726,177,177,58%,2e-44,33.33%,436,HIY36675.1
+hypothetical protein [Paraprevotella clara],Paraprevotella clara,,454154,173,173,50%,3e-41,37.50%,712,WP_270652293.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,171,171,50%,1e-40,38.50%,696,MBR2193569.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,170,170,50%,2e-40,38.57%,696,MBR3530539.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,164,164,62%,7e-39,33.19%,580,MBR6974456.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,162,162,52%,2e-37,33.84%,744,MBQ8157920.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,149,149,61%,4e-33,31.42%,724,MBR4590074.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,147,147,43%,9e-33,34.81%,724,MCR4768809.1
+hypothetical protein [Paraprevotella xylaniphila],Paraprevotella xylaniphila,,454155,146,146,57%,9.999999999999999e-33,30.95%,621,WP_008626292.1
+carbohydrate binding domain-containing protein [Prevotella sp.],Prevotella sp.,,59823,146,146,55%,3e-32,32.23%,767,MBS7285406.1
+hypothetical protein HMPREF9441_02120 [Paraprevotella clara YIT 11840],Paraprevotella clara YIT 11840,,762968,138,138,44%,7.999999999999999e-32,34.35%,337,EHH00113.1
+hypothetical protein [Paraprevotella clara],Paraprevotella clara,,454154,137,137,43%,2e-31,34.36%,330,WP_244949710.1
+hypothetical protein [Paraprevotella sp.],Paraprevotella sp.,,2049036,143,143,33%,8e-31,42.35%,1534,MBP3470722.1
+hypothetical protein [Paraprevotella sp.],Paraprevotella sp.,,2049036,143,143,33%,8e-31,42.35%,1534,MBO5181456.1
+hypothetical protein [Prevotella sp. P3-122],Prevotella sp. P3-122,,2024223,139,139,38%,2.0000000000000002e-29,37.68%,1423,WP_141210275.1
+hypothetical protein CIL02_15380 [Prevotella sp. P3-122],Prevotella sp. P3-122,,2024223,139,139,38%,2.0000000000000002e-29,37.68%,1406,OYP57891.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,136,136,30%,6e-29,42.04%,992,MBD9230273.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,136,136,51%,6e-29,35.13%,737,MBO7591367.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,129,129,44%,1.0000000000000001e-28,35.03%,318,MBO4398352.1
+hypothetical protein [Paraprevotella sp.],Paraprevotella sp.,,2049036,129,129,43%,2.0000000000000002e-28,34.06%,337,MBS4808513.1
+Ig-like domain-containing protein [Prevotella sp.],Prevotella sp.,,59823,135,135,26%,2.0000000000000002e-28,44.32%,1269,MBR6828242.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,130,130,58%,5e-28,31.56%,451,MBR1395242.1
+Ig-like domain-containing protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,132,132,25%,9e-28,41.67%,634,MBR3433797.1
+hypothetical protein PC1C4_17720 [Paraprevotella clara],Paraprevotella clara,,454154,132,132,60%,1e-27,29.49%,718,BDI75050.1
+DUF4957 domain-containing protein [Bacteroidales bacterium],Bacteroidales bacterium,,2030927,130,130,25%,1e-27,45.74%,564,MBP3258250.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,131,131,26%,2e-27,47.15%,763,MBR6828240.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,128,128,26%,5e-27,46.74%,501,MBO4607713.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,120,120,30%,9.999999999999999e-27,39.46%,217,MCR5680538.1
+chitobiase/beta-hexosaminidase C-terminal domain-containing protein [Prevotellaceae bacterium],Prevotellaceae bacterium,,2049047,128,128,37%,1.9999999999999998e-26,35.64%,693,MCD8236100.1
+leucine-rich repeat protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,128,128,39%,3e-26,36.04%,1218,MBO6126079.1
+DUF4957 domain-containing protein [Prevotella sp.],Prevotella sp.,,59823,125,125,28%,7.999999999999999e-26,40.67%,576,MBR1504527.1
+leucine-rich repeat protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,126,126,30%,1.9999999999999998e-25,39.17%,1406,MBR3433815.1
+alginate lyase family protein [Prevotella sp.],Prevotella sp.,,59823,126,126,26%,1.9999999999999998e-25,40.40%,1279,MBR2114517.1
+tyrosine-protein phosphatase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,125,125,39%,1.9999999999999998e-25,36.62%,1217,MBQ9524175.1
+hypothetical protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,124,124,33%,5e-25,33.05%,702,MBR1465749.1
+leucine-rich repeat protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,124,124,30%,5e-25,39.17%,1413,MBO7120090.1
+hypothetical protein [Prevotella sp.],Prevotella sp.,,59823,123,123,31%,6e-25,39.75%,708,MBR2184226.1
+tyrosine-protein phosphatase [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,124,124,39%,8.999999999999998e-25,36.93%,1224,MBO4840597.1
+leucine-rich repeat protein [Bacteroidaceae bacterium],Bacteroidaceae bacterium,,2212467,123,123,39%,1.0000000000000001e-24,35.56%,1218,MBR1901369.1
